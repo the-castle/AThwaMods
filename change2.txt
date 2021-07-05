@@ -12,6 +12,5 @@
 <strong><p>📩 This message will disappear soon .. Thank you</p></strong>
 <strong><p>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله </p></strong>
 <strong><p>Finally, we apologize for the inconvenience</p></strong>
-
 ","url":"https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA"
 }
