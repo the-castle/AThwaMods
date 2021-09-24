@@ -1,13 +1,33 @@
 {"version_code":7333334,"content":"
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
-<strong><p>★ التحديث الجديد رقم V9.00 سيكون إن شاء الله خلال الساعات القادمة ★</p></strong>
-<strong>يمكنكم من خلال قناتنا على التيلجرام تحميل الواتساب مباشرة مع إستئناف التحميل في حال أنقطاع الإنترنت</strong>
-<strong>يمكنكم الإشتراك في القناة بالضغط أسفل يسار الشاشة على كلمة فــتــح</strong>
+<strong><p>★ التحديث الجديد V9.00 ★</p></strong>
+<strong>حصريا : ميزة إرسال الوسائط و عرضها لمرة واحدة فقط</strong>
+<strong>حصريا : ميزة الأستماع إلى الرسائل الصوتية بسرعات مختلفة عن طريق تبديل الأزرار أثناء تشغيل الرسالة</strong>
+<strong>إضافة : برنامج جدولة الرسائل (تصميم واجهة One UI)</strong>
+<strong>إضافة : الرد التلقائي (تصميم واجهة One UI)</strong>
+<strong>إضافة : جميع المربعات  الآن تأخذ اللون الوضع الداكن / الفاتح</strong>
+<strong>إعادة : مؤثرات التمرير للأسفل و الأعلى في الشاشة الرئيسية</strong>
+<strong>إعادة : مؤثرات التمرير للأسفل و الأعلى في المحادثة</strong>
+<strong>إعادة : مؤثرات التنقل ثري دي بين الصفحات</strong>
+<strong>إصلاح : مشكلة تأخير في إرسال و إستلام الرسائل</strong>
+<strong>إصلاح : إعادة تصميم شاشة قفل</strong>
+<strong>إصلاح : تأخير الرسائل في بعض الهواتف</strong>
+<strong>استمتعوا واكتشفوا الجديد بنفسكم!</strong>
 <strong><p>==================</p></strong>
-<strong><p>★The new update No. V9.00 will be, God willing, in the coming hours★</p></strong>
-<strong>Through our channel on Telegram, you can download WhatsApp directly with the resumption of the download in the event of an internet outage</strong>
-<strong>You can subscribe to the channel by clicking at the bottom left of the screen on the word “Open”</strong>
-<strong><p>★★مـلاحـظـة★★</p></strong>
+<strong><p>★New update V9.00★</p></strong>
+<strong>Exclusive: The feature of sending media and displaying it only once</strong>
+<strong>Exclusive: The feature of listening to voice messages at different speeds by switching buttons while the message is playing</strong>
+<strong>Add: Message scheduler (One UI interface design)</strong>
+<strong>Add: Auto Reply (One UI design)</strong>
+<strong>Add: All squares now take the color dark/light mode</strong>
+<strong>Re: Scroll down and up effects on the main screen</strong>
+<strong>Re: 3D navigation effects between pages</strong>
+<strong>Re: Scroll down and up effects in conversation</strong>
+<strong>FIX: Delay issue in sending and receiving messages</strong>
+<strong>Fix: Messages are delayed on some phones</strong>
+<strong>Fix: Redesigned lock screen</strong>
+<strong>Enjoy and find out what's new for yourself!</strong>
+<strong><p>★★مـلاحـظـة★★</p></strong
 <strong><p>★★Note★★</p></strong>
 <strong><p>📩 ستختفي هذة الرسالة  قريبا .. شكراً لكم</p></strong>
 <strong><p>📩 This message will disappear soon .. Thank you</p></strong>
