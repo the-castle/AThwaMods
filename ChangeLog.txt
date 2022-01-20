@@ -1,9 +1,11 @@
-{"version_code":7777777,"content":"
+{"version_code":7777778"content":"
+<strong><p>قريباً تحديث جديد رقم V9.50</p></strong>
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
 <strong><p>★ يمكنكم متابعة قناتنا على التيلجرام لمتابعة آخر أخبار تحديثات واتساب أضواء العين وجميع أخبار التقنية أول بأول ★</p></strong>
 <strong>يمكنكم من خلال قناتنا على التيلجرام تحميل الواتساب مباشرة مع إستئناف التحميل في حال أنقطاع الإنترنت</strong>
 <strong>يمكنكم الإشتراك في القناة بالضغط أسفل يسار الشاشة على كلمة فــتــح</strong>
 <strong><p>==================</p></strong>
+<strong><p>Coming soon new update V9.50</p></strong>
 <strong><p>★You can follow our channel on Telegram to follow the latest news of WhatsApp updates, AThwaMods and all technical news firsthand★</p></strong>
 <strong>Through our channel on Telegram, you can download WhatsApp directly with the resumption of the download in the event of an internet outage</strong>
 <strong>You can subscribe to the channel by clicking at the bottom left of the screen on the word “Open”</strong>
